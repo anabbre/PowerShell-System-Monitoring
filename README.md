@@ -15,4 +15,5 @@ Este script de PowerShell monitorea el uso de los recursos del sistema (CPU, RAM
 ## Instalación:
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/PowerShell-System-Monitoring.git
+   git clone git clone https://github.com/anabbre/PowerShell-System-Monitoring.git
+
