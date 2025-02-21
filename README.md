@@ -16,10 +16,3 @@ Este script de PowerShell monitorea el uso de los recursos del sistema (CPU, RAM
 1. Clona el repositorio:
    ```bash
    git clone git clone https://github.com/anabbre/PowerShell-System-Monitoring.git
-
-  
-
-
-
-
-
